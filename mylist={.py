@@ -4,5 +4,5 @@ mylist={
     "3.", "Say Hi to Sebastian"
     "4.", "Say, How are you?"
     "5.", "Pick Apple"
-    "0.", "Exit"
+    "0.", "Exit"}
 }
